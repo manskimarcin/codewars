@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pl.manski.marcin</groupId>
-    <artifactId>find-next-perfect-square</artifactId>
+    <artifactId>ones-and-zeros</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -30,6 +30,5 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
 
 </project>
